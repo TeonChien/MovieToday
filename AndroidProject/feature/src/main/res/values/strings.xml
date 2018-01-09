@@ -1,1 +1,6 @@
-<resources></resources>
+<resources>
+    <string name="general_search">General Search</string>
+    <string name="advanced_search">Advanced Search</string>
+    <string name="recommendation">Recommendation</string>
+    <string name="gps_search">GPS Search</string>
+</resources>
