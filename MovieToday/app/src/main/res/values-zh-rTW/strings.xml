@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MovieToday</string>
+    <string name="general_search">一 般 查 詢</string>
+    <string name="advanced_search">進 階 查 詢</string>
+    <string name="recommendation">推 薦 電 影</string>
+    <string name="gps_search">GPS 查 詢</string>
+</resources>

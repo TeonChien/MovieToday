@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- 按壓時 -->
+    <item android:state_pressed="true">
+        <shape android:shape="rectangle">
+            <corners
+                android:radius="10dp"
+                />
+            <gradient
+                android:angle="45"
+                android:centerX="19%"
+                android:centerColor="#B05B46"
+                android:startColor="#9E9E9E"
+                android:endColor="#060D52"
+                android:type="linear"
+                />
+            <size
+                android:width="270dp"
+                android:height="60dp"
+                />
+            <stroke
+                android:width="2dp"
+                android:color="#CFD1D0"
+                />
+        </shape>
+    </item>
+
+    <item android:color="@android:color/black">
+        <shape android:shape="rectangle" >
+            <corners
+            android:radius="10dp"
+            />
+            <gradient
+            android:angle="45"
+            android:centerX="19%"
+            android:centerColor="#38B090"
+            android:startColor="#FFFFFF"
+            android:endColor="#050A40"
+            android:type="linear"
+            />
+            <size
+            android:width="270dp"
+            android:height="60dp"
+            />
+            <stroke
+            android:width="2dp"
+            android:color="#CFD1D0"
+            />
+        </shape>
+    </item>
+
+</selector>

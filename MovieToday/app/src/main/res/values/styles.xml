@@ -1,0 +1,16 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">#225e99</item>
+        <item name="android:colorBackground">@color/backgound_material_light</item>
+        <item name="android:colorForeground">@color/foreground_material_light</item>
+        <item name="android:windowBackground">@color/backgound_material_light</item>
+    </style>
+
+    <style name="MovieToday" parent="AppTheme" />
+
+</resources>
