@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="location_array">
+        <item>請選擇地區</item>
+    </array>
+
+    <array name="theater_array">
+        <item>請選擇電影院</item>
+    </array>
+
+    <array name="movie_array">
+        <item>請選擇電影</item>
+    </array>
+
+</resources>

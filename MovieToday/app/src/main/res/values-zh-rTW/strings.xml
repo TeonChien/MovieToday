@@ -5,4 +5,6 @@
     <string name="advanced_search">進 階 查 詢</string>
     <string name="recommendation">推 薦 電 影</string>
     <string name="gps_search">GPS 查 詢</string>
+    <string name="submit">查 詢</string>
+
 </resources>

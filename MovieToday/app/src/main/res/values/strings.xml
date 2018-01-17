@@ -5,4 +5,6 @@
     <string name="recommendation">Recommendation</string>
     <string name="gps_search">GPS Search</string>
     <string name="title_activity_maps">Map</string>
+    <string name="submit">Search</string>
+
 </resources>
